@@ -43,6 +43,7 @@ Raspbian導入済みMicroSDカード<br>
 　　https://github.com/WLO-RaspiClub/20170713_LetsStartRaspi
 　を参考にしてください）<br>
 ・設定用のHDMIモニタとUSBキーボード/マウス<br>
+・FMラジオ（76MHzから100MHzのFM放送を受信できるもの）
 
 ２．見学のみの参加も可能です。
 
